@@ -1,0 +1,52 @@
+ReLU Layer
+----------
+Delvig deep into rectifiers
+by kaiming He et al. (2015)
+
+Link: https://arxiv.org/pdf/1502.01852.pdf
+
+
+Undestanding Convolutional Neural Networks
+by C.-C. Jay Kuo(2016)
+
+Link: https://arxiv.org/pdf/1609.04112.pdf
+
+
+Pooling Layer
+-------------
+
+Evaluation of Pooling Operations in Convolutional Architectures
+by Dominik Scherer et al.(2010)
+
+Link:
+http://ais.uni-bonn.de/papers/icann2010_maxpool.pdf
+
+
+2D Visulaization of a CNN
+---------------------------
+http://scs.ryerson.ca/~aharley/vis/conv/flat.html
+
+
+Summary Of CNN:
+---------------
+
+The 9 Deep learning papers you need to know
+by Adit Deshpande(2016)
+
+Link:
+https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
+
+Cross Entropy:
+----------------
+
+A friendly Introduction to cross entropy
+by Rob DiPietro(2016)
+
+Link:
+https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/
+
+How to implement a neural network intermezzo 2
+by Peter Roelants(2016)
+
+Link:
+http://peterroelants.github.io/posts/neural_network_implememtation_intermezzo02/

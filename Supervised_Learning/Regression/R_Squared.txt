@@ -1,0 +1,46 @@
+R Squared
+------------
+
+=> Normal Regression projection and taking difference between prediction value and actual value
+
+             SSres = SUM(yi - yi') ^ 2
+
+        (i.e., SSres = Residule sum of squares )
+
+
+=> Taking average of y axis value and then taking the difference between the actual value and avg of y projection
+
+             SStot = SUM(yi - yavg) ^ 2
+
+        (i.e., SStot = Total sum of squares )
+
+
+
+=> Final Formula :
+          
+        R ^ 2 = 1 - ( SSres / SStot )      ( Note :  R ^ 2 values will be between 0 and 1 )
+
+
+=> Rule of thumb for R ^ 2 value
+
+  1.0 = Perfect fit (suspicious)
+~ 0.9 = Very Good
+< 0.7 = Not great
+< 0.4 = Terrible
+< 0.0 = Model Makes no sense on the data
+
+Note:
+------
+
+As we increase the independent variales the SSres decrease or stay the same because of the Ordinary Least Squares
+Solution to this is Adjusting R ^ 2
+
+Formula:
+          Adj R ^2 = 1 - ( 1 - R ^2 ) * ( (n - 1) / ( n - k - 1) )
+
+          (i.e., k = Number of independent variables, n = sample size)
+
+
+
+# Guide for regression and classification
+https://www.superdatascience.com/blogs/the-ultimate-guide-to-regression-classification
